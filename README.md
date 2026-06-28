@@ -23,7 +23,6 @@ This project was built as a learning project to strengthen my understanding of f
 
 ## 📌 Future Improvements
 - User authentication
-- Product search and filters
 - Backend integration
 - Payment gateway
 - Wishlist feature
